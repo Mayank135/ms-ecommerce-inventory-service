@@ -1,10 +1,10 @@
 # Inventory Service - Microservices Architecture
-4 of the following microservices forms a part of ecommerce project based on microdervices archietecture:
-product-service: https://github.com/Mayank135/ms-ecommerce-product-service
-order-service: 
-inventory-service: https://github.com/Mayank135/ms-ecommerce-inventory-service
-api-gateway: 
 This is the Inventory Service of the `microservices-ecommerce` application.
+4 of the following microservices forms a part of ecommerce project based on microdervices archietecture:
+- product-service: https://github.com/Mayank135/ms-ecommerce-product-service
+- order-service: 
+- inventory-service: https://github.com/Mayank135/ms-ecommerce-inventory-service
+- api-gateway: 
 
 ### Tech Stack:
 - Java 17
