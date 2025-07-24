@@ -4,7 +4,7 @@ This is the Inventory Service of the `microservices-ecommerce` application.
 - product-service: https://github.com/Mayank135/ms-ecommerce-product-service
 - order-service: https://github.com/Mayank135/ms-ecommerce-order-service
 - inventory-service: https://github.com/Mayank135/ms-ecommerce-inventory-service
-- api-gateway: 
+- api-gateway: https://github.com/Mayank135/ms-ecommerce-api-gateway
 
 ### Tech Stack:
 - Java 17
